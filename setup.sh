@@ -30,8 +30,8 @@ HEROKU_PIPELINE_NAME="pipeline$TICKS"
 # Usernames or aliases of the orgs you're using
 DEV_HUB_USERNAME="HubOrg"
 DEV_USERNAME="DevOrg"
-STAGING_USERNAME="DevOrg"
-PROD_USERNAME="DevOrg"
+STAGING_USERNAME="TestOrg"
+PROD_USERNAME="ProdOrg"
 
 # Repository with your code
 GITHUB_REPO="itzmukeshy7/salesforce-dx-pipeline-sample"
